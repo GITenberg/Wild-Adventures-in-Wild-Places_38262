@@ -1,0 +1,39 @@
+_repo: Wild-Adventures-in-Wild-Places_38262
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stables, Gordon
+    aliases:
+    - Stables, William Gordon
+    - Stables, W. Gordon (William Gordon)
+    birthdate: 1840
+    deathdate: 1910
+    gutenberg_agent_id: '4164'
+    url: http://www.gutenberg.org/2009/agents/4164
+description: ''
+gutenberg_issued: '2011-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38262'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Natural history -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Hunting -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Outdoor life -- Juvenile fiction'
+tableOfContents: 'Part 1: The moors and fens of England -- Part 2: The polar ice-fields
+  -- Part 3: The Russian Steppes -- Part 4: The wilds of Africa -- Part 5: The Indian
+  jungle -- Part 6: Australia -- Part 7: The Pampas -- Part 8: The backwoods.'
+title: Wild Adventures in Wild Places
+url: http://www.gutenberg.org/ebooks/38262
